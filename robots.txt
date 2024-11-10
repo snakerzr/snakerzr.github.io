@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://snakerzr.github.io/al-folio/sitemap.xml
+Sitemap: https://snakerzr.github.io/sitemap.xml
