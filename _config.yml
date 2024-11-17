@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -98,7 +98,7 @@ research_gate_profile: # your profile on ResearchGate
 scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
-spotify_id: # your spotify id
+spotify_id: 31bd6kid46mxrdsjrzrmzyhqg6ia # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: snakerzr # your Telegram user name
 unsplash_id: # your unsplash id
