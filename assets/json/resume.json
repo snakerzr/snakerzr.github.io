@@ -1,200 +1,207 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alexander Evdokimov",
+    "label": "Data Scientist (NLP/LLM)",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "snakextntx@gmail.com",
+    "phone": "+7 (916) 677-7147",
+    "url": "https://github.com/snakerzr",
+    "summary": "A dedicated Data Scientist with expertise in NLP and Large Language Models, passionate about cognitive sciences and solving real-world problems through cutting-edge AI.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Moscow",
+      "postalCode": "",
+      "city": "Moscow",
+      "countryCode": "RU",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Telegram",
+        "username": "snakerzr",
+        "url": "https://t.me/snakerzr"
+      },
+      {
+        "network": "GitHub",
+        "username": "snakerzr",
+        "url": "https://github.com/snakerzr"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Evotor",
+      "position": "Lead Developer-Linguist",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-03-01",
+      "endDate": "Present",
+      "summary": "Developing AI assistants using modern LLMs and vector databases. Implemented innovative metrics for RAG systems, enhancing response accuracy and relevancy.",
+      "highlights": [
+        "Implemented innovative quality metrics for LLM systems.",
+        "Enhanced search and generation accuracy for AI assistant through cutting-edge RAG methodologies."
+      ]
+    },
+    {
+      "name": "CloudFactory",
+      "position": "Data Scientist",
+      "url": "https://example.com",
+      "startDate": "2023-10-01",
+      "endDate": "2024-03-01",
+      "summary": "Developed financial data solutions and prototyped tools for document structure recognition and analysis.",
+      "highlights": [
+        "Explored evolutionary algorithms for portfolio optimization.",
+        "Developed prototypes for data extraction from PDFs, Excel, and images."
+      ]
+    },
+    {
+      "name": "Freelance & Hackathons",
+      "position": "Data Scientist",
+      "url": "",
+      "startDate": "2021-08-01",
+      "endDate": "2023-09-01",
+      "summary": "Participated in various hackathons and self-initiated projects, gaining extensive experience in machine learning, NLP, and financial analysis.",
+      "highlights": [
+        "Developed an investment pitch assistant (GPT-3.5/4).",
+        "Built a chatbot for Yandex.Lavka using YandexGPT and LangChain.",
+        "Created a forecasting tool for sales predictions and anomaly detection."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Data Science Community",
+      "location": "Moscow, Russia",
+      "position": "Member & Speaker",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "summary": "Active member of a private Data Science community. Participated in organizing educational events and delivered thematic lectures.",
+      "highlights": [
+        "Conducted lectures on Data Science topics.",
+        "Helped organize local IT educational events."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "National Institute of Business",
+      "location": "Moscow, Russia",
+      "url": "",
+      "area": "Management",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2008-01-01",
+      "endDate": "2012-01-01",
+      "score": "pass",
+      "courses": ["Economics", "Management"]
+    },
+    {
+      "institution": "Yandex Practicum",
+      "location": "",
+      "url": "",
+      "area": "Data Science",
+      "studyType": "Specialist Program",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-01",
+      "score": "pass",
+      "courses": ["Data Science"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Digital Breakthrough Hackathon (3rd Place)",
+      "date": "2022-01-01",
+      "awarder": "pass",
+      "url": "",
+      "summary": "Developed a startup pitch assistant using GPT-3.5/4."
+    },
+    {
+      "title": "Marking Hack (2nd Place)",
+      "date": "2022-01-01",
+      "awarder": "pass",
+      "url": "",
+      "summary": "Built a forecasting tool for sales and anomaly detection."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "EF SET English Certificate 76/100",
+      "date": "2021-01-01",
+      "issuer": "EF SET",
+      "url": "",
+      "icon": ""
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Machine Learning",
+      "level": "Expert",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "NLP",
+        "LLM",
+        "RAG",
+        "Time Series Analysis",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "icon": "",
+      "keywords": ["Python", "PyTorch", "LangChain", "Docker"]
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "Intermediate",
+      "icon": "",
+      "keywords": [
+        "Portfolio Optimization",
+        "PyPortfolioOpt",
+        "Streamlit"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Russian",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (C2)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Cognitive Sciences",
+      "icon": "",
+      "keywords": ["Philosophy of Consciousness", "Cognitive Science"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Data Science Competitions",
+      "icon": "",
+      "keywords": ["Hackathons", "Educational Events"]
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Investment Pitch Assistant",
+      "summary": "A tool that generates financial analysis and presentation slides for startups using GPT-3.5/4.",
+      "highlights": ["Automated slide generation", "Financial data integration"],
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "url": ""
+    },
+    {
+      "name": "Yandex.Lavka Chatbot",
+      "summary": "A customer support chatbot built with YandexGPT and LangChain.",
+      "highlights": ["Personalized responses", "Tone-of-voice alignment"],
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "url": ""
     }
   ]
 }
