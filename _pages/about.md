@@ -16,8 +16,65 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello! I'm **Alexander Evdokimov**, a Data Scientist specializing in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**. I bring together a passion for technology, a knack for solving complex problems, and a drive to create impactful AI solutions. My work spans cutting-edge research, hands-on engineering, and contributions to open-source projects.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+---
+
+## **Who I Am**
+- 🌍 Based in **Moscow, Russia** — Open to relocation and remote opportunities.
+- 🎓 Background in **Economics and Management** (National Institute of Business, Moscow).
+- 🌟 Multilingual: Fluent in **Russian** (native) and **English** (C2 proficient).
+
+---
+
+## **My Journey**
+### 🚀 **Professional Experience**
+- **Evotor** *(2024 - Present)*  
+  Leading the development of an AI assistant leveraging **modern LLMs** and **vector databases**, improving RAG accuracy and relevancy through innovative quality metrics.
+  
+- **CloudFactory** *(2023 - 2024)*  
+  Explored **evolutionary algorithms** and **machine learning** to optimize financial portfolios, prototyped solutions for structured data extraction from PDFs, Excel files, and images.
+
+- **Freelance & Hackathons** *(2021 - 2023)*  
+  Built a solid portfolio of projects, showcasing expertise in **ML pipelines**, **prompt engineering**, **financial data analysis**, and creative solutions that earned top spots in national hackathons.
+
+---
+
+## **Hackathon Highlights**
+### 🏆 **Digital Breakthrough (3rd Place)**  
+Built an AI-powered startup pitch assistant using **GPT models** for financial research and slide generation.
+
+### 🏅 **AI Generative Product Hackathon**  
+Created a customer support chatbot for Yandex.Lavka, integrating **YandexGPT** and **LangChain** to address complaints while aligning with brand tone.
+
+### 🥈 **Marking Hack (2nd Place)**  
+Developed a forecasting tool for **sales prediction** and **anomaly detection**, aiding regulatory compliance and fraud detection.
+
+---
+
+## **Technical Skills**
+- **Languages & Frameworks:** Python, PyTorch, LangChain, Pandas, NumPy, Scikit-learn, PySpark.
+- **ML Techniques:** NLP, RAG, Time Series Analysis, Evolutionary Algorithms, Financial Modeling.
+- **Tools:** Docker, Clickhouse, RabbitMQ, Streamlit, Optuna, Hyperopt.
+- **Visualization:** Matplotlib, Seaborn, SHAP.
+
+---
+
+## **Community & Interests**
+- 🎤 Active speaker in Data Science meetups and hackathon communities.
+- 🤝 Member of a **private DS club**, focusing on hackathons, mentorship, and knowledge-sharing.
+- 🎭 Former amateur actor with a passion for storytelling and cognitive sciences.
+- 📚 Avid learner, exploring the intersection of **AI, philosophy, and consciousness**.
+
+---
+
+## **Find Me Online**
+- 💬 Telegram: [@snakerzr](https://t.me/snakerzr)  
+- 💻 GitHub: [snakerzr](https://github.com/snakerzr)  
+- 📧 Email: [snakextntx@gmail.com](mailto:snakextntx@gmail.com)  
+
+---
+
+Let’s collaborate to create innovative, real-world AI solutions that make a difference!
